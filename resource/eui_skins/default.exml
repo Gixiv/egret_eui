@@ -40,4 +40,16 @@
 	<e:Label text="全选" x="204.97" y="583.21"/>
 	<e:Image id="item_bg" width="576" height="139" x="144.5" y="236.46" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/bg_item.png"/>
 	<e:Image width="119" height="114" x="154" y="248" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/item.png"/>
+	<e:Label text="西饼" x="306" y="258" textColor="0xf7ff9f" size="25"/>
+	<e:Label text="单价：000星币/克" x="306" y="290.96" size="15"/>
+	<e:Label text="重量：15000克" x="306" y="312.46" size="15"/>
+	<e:Label text="价格：000星币" x="306" y="332.96" size="15"/>
+	<e:CheckBox label="" x="601.73" y="265.96">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/checkbox_2.png" source.down="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/checkbox_1.png" source.disabled="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/checkbox_2.png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:CheckBox>
 </e:Skin>
