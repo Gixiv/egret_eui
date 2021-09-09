@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="defaultSkin" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="17bc844a5fd" ></w:Config>
+	<e:Image id="_bg" width="1334" height="750" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" rotation="0.04" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/bg.jpg"/>
+	<e:Image width="1334" height="750" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/bg2.png"/>
+	<e:Button label="" x="48" y="111.91" anchorOffsetX="0" width="258" anchorOffsetY="0" height="61">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/%E6%88%91%E7%9A%84%E5%8C%85%E8%A3%B9X.png" source.down="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/%E6%88%91%E7%9A%84%E5%8C%85%E8%A3%B9X.png" source.disabled="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/%E6%88%91%E7%9A%84%E5%8C%85%E8%A3%B9X.png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:CheckBox label="" x="112" y="565.71">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/checkbox_2.png" source.down="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/checkbox_1.png" source.disabled="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/checkbox_2.png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:CheckBox>
+	<e:Button label="" x="734.36" y="560.71" anchorOffsetX="0" width="232" anchorOffsetY="0" height="70">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/%E5%85%A5%E5%BA%93.png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button label="" x="1000.36" y="560.71" anchorOffsetX="0" width="232" anchorOffsetY="0" height="70">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/N%E5%80%8D%E5%8D%96%E5%87%BA.png" source.down="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/N%E5%80%8D%E5%8D%96%E5%87%BA.png" source.disabled="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/N%E5%80%8D%E5%8D%96%E5%87%BA.png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label text="数量：10/30" x="850.36" y="172.91" textColor="0xf7ff9f"/>
+	<e:Label text="合计币：8000" x="1058.36" y="172.91" textColor="0xF7FF9F"/>
+	<e:Label text="全选" x="204.97" y="583.21"/>
+	<e:Image id="item_bg" width="576" height="139" x="144.5" y="236.46" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/bg_item.png"/>
+	<e:Image width="119" height="114" x="154" y="248" source="file:///d%3A/Code/git_on/jinzhu_egret/eui/resource/assets/item.png"/>
+</e:Skin>

@@ -1,0 +1,10 @@
+{
+  "17bc844a5fd": {
+    "path": "default.ts",
+    "class": "default",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": true
+  }
+}
